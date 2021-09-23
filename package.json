@@ -1,0 +1,19 @@
+{
+  "name": "nuvemshop-mktplace-int",
+  "version": "1.0.0",
+  "description": "App responsavel por integrar api nuvemshop com mktplaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablomedeiross/nuvemshop-mktplace-integration.git"
+  },
+  "author": "Pablo Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablomedeiross/nuvemshop-mktplace-integration/issues"
+  },
+  "homepage": "https://github.com/pablomedeiross/nuvemshop-mktplace-integration#readme"
+}
